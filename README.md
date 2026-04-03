@@ -60,6 +60,13 @@ ylabel('Amplitude')
 title('Discrete cross correlated waveform')
 
 ## OUTPUT:
+![WhatsApp Image 2026-02-22 at 12 23 35](https://github.com/user-attachments/assets/0f779162-aa6a-490d-9f2d-c43a7478aa3e)
+![WhatsApp Image 2026-02-22 at 12 23 3](https://github.com/user-attachments/assets/6e3eeaac-1118-4524-b7d2-22e90ad15aa4)
+![WhatsApp Image 2026-02-22 at 12 23](https://github.com/user-attachments/assets/69fe7191-a81c-4eae-8344-7cb11c8f3b69)
+![WhatsApp Image 2026-02-22 at ](https://github.com/user-attachments/assets/b79b7ded-5082-4796-acc6-6a29b5cfce00)
 
 ## RESULT:
+![WhatsApp Image 2026-04-03 at 12 24 14](https://github.com/user-attachments/assets/c8e3da7c-26b3-4afa-82a7-327dc3ccaee2)
+
+
 
